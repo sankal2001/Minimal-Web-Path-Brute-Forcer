@@ -1,5 +1,4 @@
-# CloudSEK_Sankal-Yadav_Backend-intern_assignment
-This is a minimal web path brute-forcer (written in Python) with optimized memory and CPU usage.<br />
+## This is a minimal web path brute-forcer (written in Python) with optimized memory and CPU usage.<br />
 ## Pre-requisites
 * Python(version 3.0 or above)<br />
 
